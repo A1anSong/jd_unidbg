@@ -30,6 +30,8 @@ hook脚本在另一个项目里[hook](https://github.com/A1anSong/jdsecskill/tre
 
 考虑到可能涉及的法律问题，故部分核心源码不放出，有需要延续这个思路继续扩展即可
 
+之前发布的release也已删除，技术探讨及交流可[点击](#联系)
+
 ## License
 
 - unidbg uses software libraries from [Apache Software Foundation](http://apache.org).
